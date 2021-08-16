@@ -1,0 +1,23 @@
+{
+  "name": "homework-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyBratishchev/homework-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyBratishchev/homework-01/issues"
+  },
+  "homepage": "https://github.com/DmitriyBratishchev/homework-01#readme"
+}

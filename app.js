@@ -1,2 +1,2 @@
 const cowsay = require('cowsay')
-console.log(cowsay.say({text: 'i am  moooodule', e: '--'}))
+console.log(cowsay.say({text: 'Hello World!', e: '--'}))
